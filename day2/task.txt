@@ -1,0 +1,96 @@
+ 
+
+A function with a name defined using the function keyword is called a named function.
+
+A named function is declared using the function keyword followed by a name.
+
+Yes, you can assign a named function to a variable.
+
+A named function has a name, whereas an anonymous function does not.
+
+ 
+
+Addition of Two Numbers using Named Function
+
+Check if a Number is Even using Named Function
+
+Find the Largest of Two Numbers using Named Function
+
+Factorial of a Number using Named Function
+
+Generate Multiplication Table using Named Function
+
+Convert Celsius to Fahrenheit using Named Function
+
+Check if a Number is Prime using Named Function
+
+Find the Square of a Number using Named Function
+
+Check if a Year is a Leap Year using Named Function
+
+Find the Cube of a Number using Named Function
+ 
+
+Addition of Two Numbers using Arrow Function
+
+Check if a Number is Even using Arrow Function
+
+Find the Largest of Two Numbers using Arrow Function
+
+Factorial of a Number using Arrow Function
+
+Generate Multiplication Table using Arrow Function
+
+Convert Celsius to Fahrenheit using Arrow Function
+
+Check if a Number is Prime using Arrow Function
+
+Find the Square of a Number using Arrow Function
+
+Check if a Year is a Leap Year using Arrow Function
+
+Find the Cube of a Number using Arrow Function
+
+ 
+
+Addition of Two Numbers using Anonymous Function
+
+Check if a Number is Even using Anonymous Function
+
+Find the Largest of Two Numbers using Anonymous Function
+
+Factorial of a Number using Anonymous Function
+
+Generate Multiplication Table using Anonymous Function
+
+Convert Celsius to Fahrenheit using Anonymous Function
+
+Check if a Number is Prime using Anonymous Function
+
+Find the Square of a Number using Anonymous Function
+
+Check if a Year is a Leap Year using Anonymous Function
+
+Find the Cube of a Number using Anonymous Function
+
+IIFE (Immediately Invoked Function Expression) Examples
+
+Addition of Two Numbers using IIFE
+
+Check if a Number is Even using IIFE
+
+Find the Largest of Two Numbers using IIFE
+
+Factorial of a Number using IIFE
+
+Generate Multiplication Table using IIFE
+
+Convert Celsius to Fahrenheit using IIFE
+
+Check if a Number is Prime using IIFE
+
+Find the Square of a Number using IIFE
+
+Check if a Year is a Leap Year using IIFE
+
+Find the Cube of a Number using IIFE
