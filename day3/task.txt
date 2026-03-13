@@ -1,0 +1,82 @@
+1. Write a function `addNumbers(a, b)` that takes two parameters and prints their sum.
+
+2. Create a function `greetUser(name)` that takes a user's name as a parameter and prints:
+   `"Hello, <name>!"`
+
+3. Write a function `calculateArea(length, width)` that prints the area of a rectangle.
+
+4. Create a function `checkEvenOdd(num)` that takes a number and prints whether it is **Even or Odd**.
+
+5. Write a function `convertToUpper(text)` that takes a string and prints it in **uppercase**.
+
+6. Write a function `multiply(a, b)` that **returns** the multiplication of two numbers.
+7. Create a function `findSquare(num)` that **returns** the square of a number.
+
+8. Write a function `isPositive(num)` that **returns true or false** depending on whether the number is positive.
+
+9. Create a function `getFullName(firstName, lastName)` that **returns the full name**.
+
+10. Write a function `findLargest(a, b)` that **returns the largest number**.
+
+
+
+
+let numbers = [5, 10, 15, 20, 25];
+
+11. Use `forEach` to print all numbers.
+
+12. Use `forEach` to print the **square** of each number.
+
+13. Use `forEach` to print numbers **greater than 10**.
+
+14. Use `forEach` to calculate and print the **sum of all numbers**.
+
+15. Use `forEach` to print numbers with their **index**.
+
+
+
+
+
+let fruits = ["Apple", "Mango", "Banana", "Orange"];
+
+16. Use `for...of` to print all fruits.
+
+17. Use `for...of` to print fruits in **uppercase**.
+
+18. Use `for...of` to count the total number of fruits.
+
+19. Use `for...of` to print fruits with `"I like <fruit>"`.
+
+20. Use `for...of` to find if `"Mango"` exists in the array.
+
+
+
+let numbers = [2, 4, 6, 8, 10];
+
+21. Use `map()` to create a new array with **squares** of numbers.
+
+22. Use `map()` to create a new array with numbers **multiplied by 3**.
+
+23. Use `map()` to convert numbers into **strings**.
+
+24. Use `map()` to add **5 to each number**.
+
+25. Use `map()` to create an array of objects:
+
+Example output:
+[{num:2},{num:4},{num:6}]
+
+
+
+let numbers = [5, 12, 18, 7, 25, 30];
+
+26. Use `filter()` to get **numbers greater than 10**.
+
+27. Use `filter()` to get **even numbers**.
+
+28. Use `filter()` to get **numbers less than 20**.
+
+29. Use `filter()` to get **numbers divisible by 5**.
+
+30. Use `filter()` to get **numbers between 10 and 25**.
+
