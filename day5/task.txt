@@ -1,0 +1,89 @@
+## 🔹 Task 1
+
+Create a module `math.js` that exports two functions `add(a, b)` and `multiply(a, b)` using **named exports**.
+Then import and use them in `main.js`.
+
+---
+
+## 🔹 Task 2
+
+Create a module `logger.js` that exports a **default function** `log(message)` which prints the message.
+Import it in another file and execute it.
+
+---
+
+## 🔹 Task 3
+
+Create a module `utils.js` that:
+
+* Exports a function `sum(a, b)` as a **named export**
+* Exports a function `log(msg)` as a **default export**
+
+Import both functions correctly in `main.js` and use them.
+
+---
+
+## 🔹 Task 4
+
+Create a module `math.js` with multiple functions: `add`, `subtract`, and `multiply` using named exports.
+Import all functions using `import * as math` syntax and use them in `main.js`.
+
+---
+
+## 🔹 Task 5
+
+Create two modules:
+
+* `user.js` that exports a function `getUser()`
+* `product.js` that exports a function `getProduct()`
+
+Create an `index.js` file that re-exports both modules.
+Import both functions in `main.js` using only `index.js`.
+
+---
+
+## 🔹 Task 6
+
+Create a module `heavy.js` that exports a function `runHeavyTask()`.
+In `main.js`, dynamically import this module using `import()` and execute the function.
+
+---
+
+## 🔹 Task 7
+
+Create a module `counter.js` that:
+
+* Exports a variable `count`
+* Exports a function `increment()` that increases `count`
+
+Import them in `main.js` and demonstrate that the updated value of `count` is reflected.
+
+---
+
+## 🔹 Task 8
+
+Given a CommonJS module using `module.exports`, convert it into an ES Module using `export` syntax.
+Then import and use it in another file.
+
+---
+
+## 🔹 Task 9
+
+Create two modules `a.js` and `b.js` such that:
+
+* `a.js` imports from `b.js`
+* `b.js` imports from `a.js`
+
+Log values in both files and observe the behavior of circular dependencies.
+
+---
+
+## 🔹 Task 10
+
+Create a modular calculator system with the following structure:
+
+* `add.js`, `subtract.js`, `multiply.js`, `divide.js`
+
+Use named exports in each file.
+Create an `index.js` to re-export all functions.
+Import everything in `main.js` and perform all operations.
